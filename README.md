@@ -14,3 +14,8 @@
 
 &#160; &#160; &#160; &#160; 《Unix/Linux编程实践教程》
 
+---
+
+## [_High Performance Linux Server Programming_](./HPLSP/)
+
+&#160; &#160; &#160; &#160; 《Linux高性能服务器编程》
